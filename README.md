@@ -1,6 +1,7 @@
 # image-classifier
 
 ---
+![Classifier Pipeline](image-classifier/Screenshot 2024-12-20 144108.png)
 
 # Binary Image Classifier Project
 

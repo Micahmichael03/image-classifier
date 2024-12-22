@@ -1,7 +1,10 @@
-# image-classifier
+Here is the corrected version of your README file:
 
 ---
-![Classifier Pipeline](image-classifier/Screenshot 2024-12-20 144108.png)
+
+# Image Classifier
+
+![Screenshot 2024-12-20 144108](Screenshot%202024-12-20%20144108.png)
 
 # Binary Image Classifier Project
 
@@ -85,6 +88,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any questions or inquiries, please contact the project maintainer at [makoflash05@gmai.com].
+For any questions or inquiries, please contact the project maintainer at [makoflash05@gmail.com].
 
 ---
